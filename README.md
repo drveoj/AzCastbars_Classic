@@ -6,4 +6,6 @@ Key in this version is acbTargetBarClassic which has a working Target castbar (c
 
 Disable the "builtin" Target castbar (called "Target") in Az config settings and use Classic Target instead 
 
+(type /acb to access settings)
+
 Note: Copy the folders out of this zip to your addons folder, not the folder this README lives in
