@@ -1,0 +1,7 @@
+## Interface: 80000
+## Version: 18.08.12
+## Title: ACB Mirror
+## Author: Aezay (Earthen Ring EU)
+## Notes: Mirror Plugin for AzCastBar
+## Dependencies: AzCastBar
+acbMirror.lua

@@ -1,0 +1,13 @@
+## Interface: 80000
+## Version: 18.08.12
+## Title: AzCastBarOptions
+## Author: Aezay (Earthen Ring EU)
+## Notes: Option Dialog for AzCastBar
+## SavedVariables: AzCastBar_Profiles
+## Dependencies: AzCastBar
+## LoadOnDemand: 1
+Libs\AzDropDown.lua
+Libs\AzOptionsFactory.lua
+acbLayouts.lua
+acbOptions.lua
+acbProfiles.lua

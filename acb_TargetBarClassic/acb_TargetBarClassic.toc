@@ -1,0 +1,12 @@
+## Interface: 80000
+## Version: 18.08.20
+## Title: ACB TargetBar
+## Author: veoj (Escriven - Classic PVP Beta)
+## Notes: CastBar Plugin for AzCastBar
+## Dependencies: AzCastBar
+
+libs\LibStub\LibStub.lua
+libs\CallbackHandler-1.0\CallbackHandler-1.0.xml
+libs\LibClassicTargetCast-1.0\lib.xml
+
+acbTarget.lua

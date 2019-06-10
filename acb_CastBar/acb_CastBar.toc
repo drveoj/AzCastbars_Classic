@@ -1,0 +1,7 @@
+## Interface: 80000
+## Version: 18.08.20
+## Title: ACB CastBar
+## Author: Aezay (Earthen Ring EU)
+## Notes: CastBar Plugin for AzCastBar
+## Dependencies: AzCastBar
+acbCast.lua

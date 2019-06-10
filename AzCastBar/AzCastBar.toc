@@ -1,0 +1,8 @@
+## Interface: 80000
+## Version: 18.08.20
+## Title: AzCastBar
+## Author: Aezay (Earthen Ring EU)
+## Notes: Casting Bar Addon with Plugin Support
+## SavedVariablesPerCharacter: AzCastBar_Config
+Libs\LibTableRecycler.lua
+acbCore.lua
